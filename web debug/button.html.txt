@@ -1,0 +1,13 @@
+
+
+<a href= “ #“  class=”button_header_cta”> Request Invite </a>    //cta-call to action 
+
+
+button,.button{
+padding:1rem 1.875rem
+background:linear-gradient(to right, $limeGreen $lightGrayishBlue)
+border-radius: 50px;
+cursor: pointer;
+color:$White;
+font-weight:400PX;
+}
